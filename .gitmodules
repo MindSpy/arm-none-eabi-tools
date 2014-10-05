@@ -1,0 +1,6 @@
+[submodule "tools/git2cl"]
+	path = src/openocd/tools/git2cl
+	url = http://repo.or.cz/r/git2cl.git
+[submodule "jimtcl"]
+	path = src/openocd/jimtcl
+	url = http://repo.or.cz/r/jimtcl.git
